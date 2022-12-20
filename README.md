@@ -1,4 +1,5 @@
 # CustomLinux
+I will upoload config files from my custom Linux.
 
 ## OH-MY-ZSH THEME
 ```
